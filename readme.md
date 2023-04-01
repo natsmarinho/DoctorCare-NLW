@@ -1,5 +1,13 @@
+<h1 align='center'>DOCTOR-CARE</h1> 
+
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
+
+> Status do Projeto: :heavy_check_mark: concluído
+
 This is an one-page made at Next Level Week by Rocketseat.
-## link of deploy: https://natsmarinho.github.io/DoctorCare-NLW/#home
+## Deploy: https://natsmarinho.github.io/DoctorCare-NLW/#home
 
 ## Table of contents
 
@@ -37,6 +45,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Javascript
 
 
 ### What I learned
@@ -130,8 +139,9 @@ navigation.classList.remove('scroll')
 ## Author
 
 - Frontend Mentor - [@natsmarinho](https://www.frontendmentor.io/profile/natsmarinho)
-- Twitter - [@friidakhalo](https://www.twitter.com/friidakhalo)
+- Twitter - [@natsmarinho](https://www.twitter.com/natsmarinho)
 - Instagram - [@natsmarinho](https://www.instagram.com/natsmarinho/)
+- LinkedIn - [natsmarinho](https://www.linkedin.com/in/natsmarinho/)
 
 ## Acknowledgments
 
